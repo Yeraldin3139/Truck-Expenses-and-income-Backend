@@ -1,0 +1,15 @@
+com\truckapp\repository\ExpenseRepository.class
+com\truckapp\controller\ShipmentController.class
+com\truckapp\model\Shipment.class
+com\truckapp\repository\ShipmentRepository.class
+com\truckapp\model\Trip.class
+com\truckapp\TruckAppApplication.class
+com\truckapp\config\CorsConfig.class
+com\truckapp\repository\TruckRepository.class
+com\truckapp\service\PricingService.class
+com\truckapp\model\AppUser.class
+com\truckapp\repository\TripRepository.class
+com\truckapp\model\Truck.class
+com\truckapp\model\Expense.class
+com\truckapp\controller\ShipmentDTO.class
+com\truckapp\repository\UserRepository.class
