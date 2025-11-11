@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: truck-backend
-    env: docker
-    rootDir: .
-    dockerfilePath: Dockerfile
-    autoDeploy: true
-    healthCheckPath: /actuator/health
